@@ -1,0 +1,44 @@
+
+        
+    
+
+
+*{
+    margin: 5px;
+    padding: 5px;
+    
+}
+.corpo{
+    font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        background-color: purple;
+}
+.cabecalho{
+    background-color: peru;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.sec{
+    background-color: peru;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.sec02 h2, h3{
+    background-color: peru;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.sec02 ul{
+    background-color: peru;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.rodape{
+    text-align: end;
+    color: white;
+    
+}
